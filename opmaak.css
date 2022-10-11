@@ -29,3 +29,8 @@
   H2 {
     text-align: right;
   }
+
+  p.one {
+    border-style:solid;
+    border-color:cadetblue; 
+  }
