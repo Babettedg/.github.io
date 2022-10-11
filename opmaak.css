@@ -1,8 +1,4 @@
 
- 
-  
-  
-
   ul {
     list-style-type: none;
     margin: 0;
@@ -28,4 +24,8 @@
   li a:hover {
     background-color:cadetblue ;
     color:aliceblue ;
+  }
+
+  H2 {
+    text-align: right;
   }
