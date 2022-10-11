@@ -1,16 +1,27 @@
-ul {
+
+ 
+  
+  
+
+  ul {
     list-style-type: none;
     margin: 0;
     padding: 0;
     width: 200px;
-    background-color:cadetblue;
+    overflow: hidden;
+    background-color: cadetblue ;
+  }
+  
+  li {
+    float: left;
   }
   
   li a {
     display: block;
-    color: #000;
-    padding: 8px 16px;
-    text-decoration:none;
+    color:black ;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
   }
   
   /* Change the link color on hover */
