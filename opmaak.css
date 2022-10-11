@@ -1,31 +1,23 @@
 
-  ul {
-    list-style-type: none;
-    margin: 0;
-    padding: 0;
-    width: 200px;
+  .topnav a {
     overflow: hidden;
-    background-color: cadetblue ;
-  }
-  
-  li {
-    float: left;
-  }
-  
-  li a {
-    display: block;
-    color:black ;
-    text-align: center;
-    padding: 14px 16px;
-    text-decoration: none;
-  }
-  
-  /* Change the link color on hover */
-  li a:hover {
-    background-color:cadetblue ;
-    color:aliceblue ;
+    background-color:black ;
   }
 
+  .topnav a{
+    float:left;
+    display:block;
+    color:cadetblue;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none ;
+  }
+
+  .topnav a{
+    background-color: cadetblue;
+    color:black;
+  }
+  
   H2 {
     text-align: right;
   }
