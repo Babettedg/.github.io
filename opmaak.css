@@ -11,20 +11,6 @@ body {
     overflow: hidden;
     background-color:aquamarine ;
   }
-  
-  .topnav a{
-    float:right;
-    display:block;
-    color:aquamarine;
-    text-align: left;
-    padding: 14px 16px;
-    text-decoration: none ;
-  }
-  
-  .topnav a{
-    background-color:aquamarine;
-    color:black;
-  }
    
   H2 {
     text-align: left;
