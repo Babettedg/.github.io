@@ -1,5 +1,6 @@
+
 body {
-  background-image: url("paper.gif");
+  background-image:lightblue ;
  }
    .topnav a {
     overflow: hidden;
@@ -20,7 +21,7 @@ body {
     color:black;
   }
    H2 {
-    text-align: right;
+    text-align: left;
   }
   
   p.one {
@@ -36,10 +37,8 @@ body {
       height: 100%; /* Full height */
       position: fixed; /* Make it stick, even on scroll */
       overflow: auto; /* Enable scrolling if the sidenav has too much content */
-      background-color: #f1f1f1;
+      background-color:cadetblue ;
       border: 1px solid #555;
-
-
     }
     
     li a {
