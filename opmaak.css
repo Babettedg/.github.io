@@ -3,13 +3,13 @@ body {
  }
    .topnav a {
     overflow: hidden;
-    background-color:black ;
+    background-color:cadetblue ;
   }
   
   .topnav a{
     float:left;
     display:block;
-    color:cadetblue;
+    color:rgb(76, 173, 176);
     text-align: center;
     padding: 14px 16px;
     text-decoration: none ;
