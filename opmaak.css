@@ -1,6 +1,7 @@
 p {
   color:aquamarine;
-  text-align: right;
+  text-align: left;
+  background-color: aquamarine;
 }
 
 body {
@@ -12,23 +13,24 @@ body {
   }
   
   .topnav a{
-    float:left;
+    float:right;
     display:block;
-    color:cadetblue;
-    text-align: center;
+    color:aquamarine;
+    text-align: left;
     padding: 14px 16px;
     text-decoration: none ;
   }
   
   .topnav a{
-    background-color: cadetblue;
+    background-color:aquamarine;
     color:black;
   }
-   H2 {
-    text-align: right;
+   
+  H2 {
+    text-align: left;
   }
   
   p.one {
     border-style:solid;
-    border-color:cadetblue;
+    border-color:aquamarine;
   }
