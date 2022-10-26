@@ -1,12 +1,28 @@
-<!DOCTYPE html>
-<html>
-<head>
-<style>
 body {
-  background-color: ;
-}
-</style>
-</head>
-</html>
-
-
+  background-image: url("paper.gif");
+ }
+   .topnav a {
+    overflow: hidden;
+    background-color:black ;
+  }
+  
+  .topnav a{
+    float:left;
+    display:block;
+    color:cadetblue;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none ;
+  }
+  
+  .topnav a{
+    background-color: cadetblue;
+    color:black;
+  }
+   H2 {
+    text-align: right;
+  }
+  
+  p.one {
+    border-style:solid;
+    border-color:cadetblue;
