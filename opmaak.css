@@ -1,15 +1,15 @@
 p {
-  color:aquamarine;
+  color:lightblue;
   text-align: left;
-  background-color: aquamarine;
+  background-color: lightblue;
 }
 
 body {
-  background-color: aquamarine;
+  background-color: lightblue;
  }
    .topnav a {
     overflow: hidden;
-    background-color:aquamarine ;
+    background-color:lightblue ;
   }
    
   H2 {
@@ -18,7 +18,7 @@ body {
   
   p.one {
     border-style:solid;
-    border-color:aquamarine;
+    border-color:lightblue;
   }
 
   <div class="topnav">
