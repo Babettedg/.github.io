@@ -54,5 +54,5 @@ p {
 
  img{
   float:left;
+  object-fit: cover;
 }
-
