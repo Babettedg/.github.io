@@ -16,36 +16,31 @@ p {
     border-color:lightblue;
   }
   
- .topnav {
-  background-color:cadetblue ;
-  overflow: hidden;
- }
+  ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color:cadetblue;
+  }
+   
+  li {
+    float: left;
+  }
+   
+  li a {
+    display: block;
+    color:black;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+  }
+   
+  /* Change the link color to #111 (black) on hover */
+  li a:hover {
+    background-color:teal;
+  }
   
- .topnav a {
-  float:left;
-  display: block;
-  color:black;
-  text-align: center;
-  padding: 14px 16px;
-  text-decoration: none;
-  font-size: 17px;
-  text-decoration: none;
- }
-  
- .topnav a:hover {
-  background-color:aliceblue;
-  color: black;
- }
-  
- .topnav a.active {
-  background-color:aliceblue;
-  color:black;
- }
-
- a:link, a:visited {
-  background-color: black;
-
- }
   
  h2 {
   text-shadow: 2px 2px 5px cadetblue;
