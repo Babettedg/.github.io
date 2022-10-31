@@ -1,63 +1,61 @@
-
 p {
   color:lightblue;
   text-align: left;
   background-color: lightblue;
-}
-
-body {
+ }
+  
+ body {
   background-color: lightblue;
  }
-   
+  
   H2 {
     text-align: left;
   }
-  
-  p.one {
+   p.one {
     border-style:solid;
     border-color:lightblue;
   }
-
-  <div class="topnav">
+  
+ <div class="topnav">
   <a class="active" href="#Home">Home</a>
   <a href="#Kleurmodellen">Kleurmodellen</a>
   <a href="#Binairstelsel">Binairstelsel</a>
-</div>
-
-/* Add a black background color to the top navigation */
-.topnav {
+ </div>
+  
+ /* Add a black background color to the top navigation */
+ .topnav {
   background-color: #333;
   overflow: hidden;
-}
-  
-/* Style the links inside the navigation bar */
-.topnav a {
+ }
+  /* Style the links inside the navigation bar */
+ .topnav a {
   float:left;
   color:black;
   text-align: center;
   padding: 14px 16px;
   text-decoration: none;
   font-size: 17px;
-}
-
-/* Change the color of links on hover */
-.topnav a:hover {
+ }
+  
+ /* Change the color of links on hover */
+ .topnav a:hover {
   background-color:aliceblue;
   color: black;
-}
-
-/* Add a color to the active/current link */
-.topnav a.active {
+ }
+  
+ /* Add a color to the active/current link */
+ .topnav a.active {
   background-color: #04AA6D;
   color:black;
-}
-
-h2 {
+ }
+  
+ h2 {
   text-shadow: 2px 2px 5px cadetblue;
-}
-
-p {
+ }
+  
+ p {
   border-style: solid;
   border-color:cadetblue;
   border-width: 5px;
-}
+ }
+ 
