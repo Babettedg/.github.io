@@ -62,5 +62,5 @@ p {
 }
 
 iframe{
-  float:none;
+  float:inline-start;
 }
