@@ -60,9 +60,10 @@ p {
   border-width: 5px;
 }
 
-footer{
-  text-align: center;
+footer {
+  text-align: left;
   padding: 3px;
+  background-color:cadetblue;
   color:black;
-  background-color: cadetblue;
 }
+
