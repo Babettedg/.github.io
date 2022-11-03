@@ -61,5 +61,8 @@ p {
 }
 
 footer{
-  float:right
+  text-align: center;
+  padding: 3px;
+  color:black;
+  background-color: cadetblue;
 }
