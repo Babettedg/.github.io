@@ -42,7 +42,6 @@ li a:hover {
 
 /*opmaak afbeelding*/
 /* border-color, border-style en border-width bepalen de kleur, verloop en dikte van een rand, in dit geval rondom het plaatje*/
-/* object-fit: cover; */
 img{
   float:left;
   border-color: cadetblue;
@@ -51,7 +50,7 @@ img{
   }
 
 /*opmaak footer*/ 
-/*position: fixed; zorgt ervoor dat de footer als het waren op zijn plek blijft plakken, margin-top zegt iets over de dikte van de marge en is negatief, zodat de footer lager op de pagina komt te staan*/
+/*position: fixed; zorgt ervoor dat de footer als het waren op zijn plek blijft plakken, */
 footer{
   padding:4px;
   background-color: cadetblue;
@@ -59,10 +58,10 @@ footer{
   position:fixed;
   text-align: center;
   position: fixed;
-  height:70px;
+  height:70px; /*hoogte van de footer*/
   bottom:0px;
   left:0px;
   right: 0px;
   margin-bottom: 0px;
   }
-
+  
