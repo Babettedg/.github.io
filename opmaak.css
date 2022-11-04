@@ -60,10 +60,10 @@ p {
   border-width: 5px;
 }
 
-footer {
+footer{
   position: bottom;
   left: 0;
-  bottom: 30;
+  bottom:0px;
   width: 100%;
   background-color:blueviolet;
   color:black;
