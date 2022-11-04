@@ -58,9 +58,9 @@ footer{
   text-align: center;
   position: fixed;
   height:70px; /*hoogte van de footer*/
-  bottom:0px;
-  left:0px;
-  right: 0px;
+  bottom:0px; /*marge onderkant*/
+  left:0px; /*marge links*/
+  right: 0px; /*marge rechts*/
   margin-bottom: 0px;
   }
   
