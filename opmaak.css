@@ -50,11 +50,12 @@ img{
   }
 
 /*opmaak footer*/ 
+/*position: fixed; zorgt ervoor dat de footer als het waren op zijn plek blijft plakken, margin-top zegt iets over de dikte van de marge en is negatief, zodat de footer lager op de pagina komt te staan*/
 footer{
   padding:4px;
   background-color: cadetblue;
   color:black;
-  position:bottom;
+  position:fixed;
   text-align: center;
   margin-top: -400px;
   }
