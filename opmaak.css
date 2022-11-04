@@ -44,7 +44,6 @@ li a:hover {
 /* object-fit: cover; */
 img{
   float:left;
-  object-fit:none;
   border-color: cadetblue;
   border-style: solid;
   border-width: 5px;
