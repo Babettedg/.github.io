@@ -11,7 +11,7 @@ H2 {
 
 /* Ul introduceert een ongeordende lijst, deze css gegevens zijn een onderdeel van de navigatiebalk*/
 /*list-style-type: none;- Verwijdert de punten. Een navigatiebalk heeft namelijk geen lijstmarkeringen nodig. Standaardinstellingen van de browser instellen margin: 0;en verwijderen padding: 0;*/
-/*overflow: hidden; om alles dat langer of breder is dan aangegeven niet te tonen.*/
+/*overflow: hidden; om alles dat langer of breder is dan aangegeven niet te tonen*/
 ul {
   list-style-type: none;
   margin: 0;
@@ -20,12 +20,12 @@ ul {
   background-color:cadetblue;
   }
    
-/* je maakt de navigatiebalk op deze manier horizontaal. Dit doe je door de <li>-elementen te laten zweven en een lay-out voor de navigatielinks op te geven:*/
+/* je maakt de navigatiebalk op deze manier horizontaal. Dit doe je door de <li>-elementen te laten zweven en een lay-out voor de navigatielinks op te geven*/
 li {
   float: left;
   }
    
-/*op deze manier regel je de opmaakt van je navigatiebalk, color bepaald te tekstkleur, de padding regelt de ruimte om de tekst en display: block zorgt voor het weergeven van een element als blok, zoals alinea's en kopteksten altijd zijn geweest. */
+/*op deze manier regel je de opmaakt van je navigatiebalk, color bepaald te tekstkleur, de padding regelt de ruimte om de tekst en display: block zorgt voor het weergeven van een element als blok, zoals alinea's en kopteksten altijd zijn geweest */
 li a {
   display: block;
   color:black;
@@ -49,7 +49,7 @@ img{
   }
 
 /*opmaak footer*/ 
-/*position: fixed; zorgt ervoor dat de footer als het waren op zijn plek blijft plakken, */
+/*position: fixed; zorgt ervoor dat de footer als het ware op zijn plek blijft plakken*/
 footer{
   padding:4px;
   background-color: cadetblue;
