@@ -63,8 +63,11 @@ footer{
   padding:4px;
   background-color: cadetblue;
   color:black;
-  position: bottom;
+  position: fixed;
   text-align: center;
   margin-top: -100px;
+  left: 0;
+  bottom: 0;
+  width: 100%;
 }
 
