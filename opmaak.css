@@ -59,9 +59,11 @@ h2 {
   border-width: 5px;
 }
 
-.footer{
+footer{
   padding:4px;
   background-color: cadetblue;
   color:black;
   position: bottom;
+  text-align: center;
 }
+
