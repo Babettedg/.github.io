@@ -60,11 +60,7 @@ h2 {
 }
 
 .footer{
-  position: bottom;
-  left: 0;
-  bottom:0px;
-  width: 100%;
-  background-color:blueviolet;
+  padding:4px;
+  background-color: cadetblue;
   color:black;
-  text-align: center;
 }
