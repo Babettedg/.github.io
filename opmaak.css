@@ -60,7 +60,7 @@ p {
   border-width: 5px;
 }
 
-footer {
+.footer {
   position: bottom;
   left: 0;
   bottom: 30;
