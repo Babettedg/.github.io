@@ -20,12 +20,12 @@ ul {
   background-color:cadetblue;
   }
    
-/* je maakt de menubalk op deze manier horizontaal. Dit doe je door de <li>-elementen te laten zweven en een lay-out voor de navigatielinks op te geven:*/
+/* je maakt de navigatiebalk op deze manier horizontaal. Dit doe je door de <li>-elementen te laten zweven en een lay-out voor de navigatielinks op te geven:*/
 li {
   float: left;
   }
    
-
+/*op deze manier regel je de opmaakt van je navigatiebalk, color bepaald te tekstkleur, de padding regelt de ruimte om de tekst en display: block zorgt voor het weergeven van een element als blok, zoals alinea's en kopteksten altijd zijn geweest. */
 li a {
   display: block;
   color:black;
@@ -34,12 +34,14 @@ li a {
   text-decoration: none;
   }
    
-/* verander de achtergrond kleur naar teal op de hover*/
+/* verander de achtergrond kleur naar de kleur teal op de hover*/
 li a:hover {
   background-color:teal;
   }
 
 /*opmaak afbeelding*/
+/* border-color, border-style en border-width bepalen de kleur, verloop en dikte van een rand, in dit geval rondom het plaatje*/
+/* object-fit: cover; */
 img{
   float:left;
   object-fit:cover;
