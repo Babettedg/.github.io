@@ -1,6 +1,7 @@
 /*achtegrondkleur van de body*/
 body {
   background-color: lightblue;
+  margin-bottom:50px;
   }
 
 /*de H2 titels links plaatsen met een cadetblauwe tekstschaduw*/
@@ -57,4 +58,11 @@ footer{
   color:black;
   position:fixed;
   text-align: center;
+  position: fixed;
+  height:50px;
+  bottom:0px;
+  left:0px;
+  right: 0px;
+  margin-bottom: 0px;
   }
+
