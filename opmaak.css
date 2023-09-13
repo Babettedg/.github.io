@@ -67,7 +67,6 @@ footer{
   overflow: hidden;
 }
 
-
 .dropdown .dropbtn {
   font-size: 16px;  
   border: none;
@@ -78,7 +77,6 @@ footer{
   font-family: inherit;
   margin: 0;
 }
-
 
 .dropdown-content {
   display: none;
