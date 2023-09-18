@@ -48,12 +48,14 @@ img{
   border-width: 5px;
   }
 
+/*opmaak video*/
+/* border-color, border-style en border-width bepalen de kleur, verloop en dikte van een rand, in dit geval rondom het video*/
 video{
-    float:left;
-    border-color: cadetblue;
-    border-style: solid;
-    border-width: 5px;
-    }
+  float:left;
+  border-color: cadetblue;
+  border-style: solid;
+  border-width: 5px;
+   }
 
 /*opmaak footer*/ 
 /*position: fixed; zorgt ervoor dat de footer als het ware op zijn plek blijft plakken*/
@@ -69,6 +71,7 @@ footer{
   right: 0px; /*marge rechts*/
   }
 
+/*Met de onderstaande wordt de opmaak van het dropdownmenu bepaald*/
 .dropdown {
   float: left;
   overflow: hidden;
