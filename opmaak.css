@@ -48,6 +48,13 @@ img{
   border-width: 5px;
   }
 
+video{
+    float:left;
+    border-color: cadetblue;
+    border-style: solid;
+    border-width: 5px;
+    }
+
 /*opmaak footer*/ 
 /*position: fixed; zorgt ervoor dat de footer als het ware op zijn plek blijft plakken*/
 footer{
