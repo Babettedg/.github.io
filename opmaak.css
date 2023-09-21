@@ -8,7 +8,18 @@ H2 {
   text-align: left;
   text-shadow: 2px 2px 5px cadetblue;
   }
-   
+
+/* Ul introduceert een ongeordende lijst, deze css gegevens zijn een onderdeel van de navigatiebalk*/
+/*list-style-type: none;- Verwijdert de punten. Een navigatiebalk heeft namelijk geen lijstmarkeringen nodig. Standaardinstellingen van de browser instellen margin: 0;en verwijderen padding: 0;*/
+/*overflow: hidden; om alles dat langer of breder is dan aangegeven niet te tonen*/
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color:cadetblue;
+  }
+  
 /* je maakt de navigatiebalk op deze manier horizontaal. Dit doe je door de <li>-elementen te laten zweven en een lay-out voor de navigatielinks op te geven*/
 li {
   float: left;
